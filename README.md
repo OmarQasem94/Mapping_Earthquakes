@@ -19,9 +19,9 @@ Each earthquake is visually represented by a circle and color, where a higher ma
 * Staellite View
 * Dark View
 
-![streets](https://github.com/OmarQasem94/Belly_Button_Biodiversity/blob/main/static/images/Dashboard.PNG)
+![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
 
-![satellite](https://github.com/OmarQasem94/Belly_Button_Biodiversity/blob/main/static/images/Dashboard.PNG)
+![satellite](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/satellite.PNG)
 
-![dark](https://github.com/OmarQasem94/Belly_Button_Biodiversity/blob/main/static/images/Dashboard.PNG)
+![dark](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/dark.PNG)
 
