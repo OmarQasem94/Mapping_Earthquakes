@@ -1,6 +1,5 @@
 # Mapping_Earthquakes
 
-
 ## **Overview**
 This project utilizes javascript and GEOJSON data to create interactive maps to visualize earthquake data. 
 
@@ -24,4 +23,3 @@ Each earthquake is visually represented by a circle and color, where a higher ma
 ![satellite](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/satellite.PNG)
 
 ![dark](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/dark.PNG)
-
