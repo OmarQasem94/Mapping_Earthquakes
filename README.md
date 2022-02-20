@@ -4,10 +4,10 @@
 This project utilizes javascript and GEOJSON data to create interactive maps to visualize earthquake data. 
 
 ### **Purpose**
-The objective of this project is build an interactive map visuallizations to depict the magnitudes of earthquakes all over the world in the last seven days. The map allows the user to choose what to depict on the map by utilizing three datasets which depict the following:
+The objective of this project is build interactive map visuallizations to depict the magnitudes of earthquakes all over the world in the last seven days. The map allows the user to choose what to depict on the map by utilizing three datasets which depict the following:
 
 * All earthquakes in the past seven days.
-* Earthquakeswith a magnitude above 4.5 in the past seven days.
+* Earthquakes with a magnitude above 4.5 in the past seven days.
 * Tetonic plates in the last seven days.
 
 ## **Results**
